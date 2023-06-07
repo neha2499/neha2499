@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github profile
+<h1 align="center" color="blue">Welcome to my Github profile
   
 ### Hi there 👋, I am Neha Chaudhary
 

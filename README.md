@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Neha Chaudhary
 
-<!--
-**neha2499/neha2499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I'm a recent graduate from Concordia University Specialising in Java & Spring Boot
 
 - 🔭 I’m currently looking for full time Software Developer Opportunities
 - 🌱 I’m currently learning Software Development Technologies
 - 📫 How to reach me: chaudharyneha2499@gmail.com
 
--->
+
 
 
 
@@ -23,5 +20,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neha2499&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=neha2499&icon=0&color=0)](https://visitcount.itsvg.in)
+
 

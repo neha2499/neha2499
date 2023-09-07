@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for full time Software Developer Opportunities
 - 🌱 I’m currently learning Software Development Technologies
-- 📫 How to reach me: chaudharyneha2499@gmail.com
+- 📫 How to reach me: chaudharync2499@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-chaudhary2499/) 
